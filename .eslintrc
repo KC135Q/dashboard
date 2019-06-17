@@ -1,0 +1,11 @@
+{
+  "env": {
+    "browser": true,
+    "commonjs": true
+  },
+  "extends": "airbnb",
+  "rules": {
+    "no-unused-vars": "warn",
+    "quotes": "error"
+  }
+}
